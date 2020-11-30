@@ -1,0 +1,32 @@
+{
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+    "javascript.format.enable": false,
+    "javascript.format.insertSpaceAfterCommaDelimiter": false,
+    "javascript.autoClosingTags": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.tree.indent": 20,
+    "workbench.colorTheme": "Tomorrow Night",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#333",
+        "statusBar.debuggingBackground": "#263238",
+        "statusBar.noFolderBackground": "#333",
+    }, 
+    "files.trimFinalNewlines": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "path-intellisense.showHiddenFiles": true
+}
+
+
+/*
+    auto rename tag (Jun han)
+    perttier  (Esben pettersen)
+    paste-and-indent (q3rry)
+    path Intellisense (Christian Kohler)
+*/
